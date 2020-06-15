@@ -1,0 +1,59 @@
+body{
+    background: #a2ad83;
+}
+
+section{
+    background: #be5f5f;
+
+}
+h1{
+    color: brown;
+
+}
+p{
+    color: #220746;
+
+}
+h2{color: #052027;
+
+}
+
+.hotpink-header{
+    color: hotpink;
+}
+
+#top{
+    background: khaki;
+}
+
+a{
+    color: darkblue;
+}
+
+nav a{
+    color: darkblue;
+}
+
+.yellow-p{
+    color: yellow;
+}
+
+#name{ 
+    color: red;
+
+}
+
+.red-tekst{
+    color: darkred; 
+    border-radius: 120px 200px 87px 34px;
+    -moz-border-radius: 120px 200px 87px 34px;
+    -webkit-border-radius: 120px 200px 87px 34px;
+    border: 0px solid #000000;
+    background-color: deepskyblue;
+    padding: 20px;
+    -webkit-box-shadow: 22px -26px 38px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 22px -26px 38px 0px rgba(0,0,0,0.75);
+    box-shadow: 22px -26px 38px 0px rgba(0,0,0,0.75);
+
+}
+
