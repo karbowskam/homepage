@@ -1,29 +1,35 @@
 body {
-    background: #aed1d6;
+  background: #aed1d6;
+}
+
+.navigation {
+  background: white;
+  padding: 8px;
+  border-radius: 8px;
+  text-align: right;
+}
+
+.navigation__link--homepage {
+  color: black;
+  margin: 4px;
+}
+
+.navigation__link--kontakt {
+  color: black;
+  margin: 8px;
+}
+
+.main-header {
+  color: #314570;
+  font-size: 52px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 18px 0px 0px 10px
+
 
 }
 
-.navigation{
-    background: white;
-    padding: 8px;
-    border-radius:8px;
-    text-align: right;
-
-}
-
-.navigation__link--homepage{
+.main-header__paragraph{
     color: black;
-    margin: 8px;
-
-}
-
-.navigation__link--nauka-html{
-    color: black;
-    margin: 4px;
-}
-
-.main-header{
-    color: #314570;
-    font-size: 45px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0px 0px 30px 282px
 }
