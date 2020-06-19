@@ -1,53 +1,29 @@
 body {
-  background: #a2ad83;
+    background: #aed1d6;
+
 }
 
-section {
-  background: #be5f5f;
-}
-h1 {
-  color: brown;
-}
-p {
-  color: #220746;
-}
-h2 {
-  color: #052027;
+.navigation{
+    background: white;
+    padding: 8px;
+    border-radius:8px;
+    text-align: right;
+
 }
 
-.hotpink-header {
-  color: hotpink;
+.navigation__link--homepage{
+    color: black;
+    margin: 8px;
+
 }
 
-.main-header {
-  background: khaki;
+.navigation__link--nauka-html{
+    color: black;
+    margin: 4px;
 }
 
-.navigation {
-  background: cadetblue;
-}
-
-.navigation a {
-  color: darkblue;
-}
-
-.yellow-p {
-  color: yellow;
-}
-
-#name {
-  color: rgb(29, 21, 21);
-}
-
-.red-tekst {
-  color: darkred;
-  border-radius: 120px 200px 87px 34px;
-  -moz-border-radius: 120px 200px 87px 34px;
-  -webkit-border-radius: 120px 200px 87px 34px;
-  border: 0px solid #000000;
-  background-color: deepskyblue;
-  padding: 20px;
-  -webkit-box-shadow: 22px -26px 38px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 22px -26px 38px 0px rgba(0, 0, 0, 0.75);
-  box-shadow: 22px -26px 38px 0px rgba(0, 0, 0, 0.75);
+.main-header{
+    color: #314570;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
