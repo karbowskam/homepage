@@ -1,0 +1,101 @@
+body {
+  background: #aed1d6;
+}
+
+.main{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.header{
+  width: 99%;
+  height: 30px;
+  background: white;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.navigation {
+  text-align: right;
+  width: 45%;
+  float: right;
+}
+
+.navigation__link--homepage {
+  color: black;
+  margin: 4px;
+}
+
+.navigation__link--kontakt {
+  color: black;
+  margin: 8px;
+}
+
+.main__heading {
+  color: #314570;
+  font-size: 52px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 18px 0px 0px 10px;
+  text-align: center;
+}
+
+.main__heading--paragraph{
+  color: black;
+  text-align: center;
+  font-size: 15px; 
+  margin: 0 0;
+}
+
+.about__heading{
+  color: black;
+  text-align: center;
+  margin-top: 35px;
+}
+
+.about__description{
+  color: black;
+}
+
+.notes__heading{
+  color: black;
+  text-align: center;
+}
+
+.history__heading{
+  color: #314570;
+  text-align: center;
+}
+
+.footer{
+  color: #314570;
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.aside {
+  width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+
+.list {
+  list-style: square;
+}
+
+.table{
+  width: 100%;
+}
+
+.tableFill {
+  width: 100%;
+}
+
+.tableFill__item {
+  text-align: center;
+}
